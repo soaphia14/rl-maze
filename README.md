@@ -1,2 +1,4 @@
-# rl-maze
-Maze generation + training a reinforcement learning agent to traverse the maze.
+# RL Maze
+Maze generation via Prim's algoirthm + Training a reinforcement learning agent to traverse the maze.
+
+You can either train and test an agent on a specific maze, or use a saved agent to run any random 5x5 maze. 
